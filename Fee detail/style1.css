@@ -1,0 +1,31 @@
+#hel {
+    background-color: #caebeb;
+}
+
+#row2 {
+    background-color: #71A4DD;
+    text-align: center;
+}
+
+#btn {
+    border-style: none;
+    background-color: #71A4DD;
+}
+
+img.logo {
+    background-color: #71A4DD;
+    border-style: none;
+}
+
+p.name {
+    padding-top: 15px;
+}
+
+#blackrow {
+    background-color: #201E1E;
+    text-align: center;
+}
+
+b.color {
+    color: white;
+}
